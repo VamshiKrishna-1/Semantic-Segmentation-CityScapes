@@ -20,7 +20,7 @@ To use this project for semantic segmentation tasks:
  - Use the model for segmentation predictions on urban scene images.
 
 # Aftermath of training
-![Training and Validation Loss Graph]((https://imgur.com/a/F51TnqN))
+![Training and Validation Loss Graph]([(https://imgur.com/a/F51TnqN)](https://github.com/VamshiKrishna-1/Semantic-Segmentation-CityScapes/blob/master/loss%20vs%20epoch%20graph)https://github.com/VamshiKrishna-1/Semantic-Segmentation-CityScapes/blob/master/loss%20vs%20epoch%20graph)
 
 # Contributor
 Vamshi Krishna Tinberiveni
