@@ -19,6 +19,9 @@ To use this project for semantic segmentation tasks:
  - Run the train.py script to commence training the model.
  - Use the model for segmentation predictions on urban scene images.
 
+# Aftermath of training
+![Training and Validation Loss Graph]((https://imgur.com/a/F51TnqN))
+
 # Contributor
 Vamshi Krishna Tinberiveni
 
